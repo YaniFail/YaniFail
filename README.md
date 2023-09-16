@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **a private project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **Yannik#2480**
+- 📫 How to reach me **Yannik2480**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
