@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **Yannik2480**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
